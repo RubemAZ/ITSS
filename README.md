@@ -1,2 +1,2 @@
 # ITSS - SIST
-Internal Technical Support System (ITSS) - Sistema Interno de Suporte Técnico
+Internal Technical Support System - Sistema Interno de Suporte Técnico
